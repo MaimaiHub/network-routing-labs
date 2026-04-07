@@ -166,7 +166,7 @@ End-to-end connectivity is verified by ping and traceroute
 
 ## Files Included
 ```text
-rip/
+rip
  ├── README.md
  ├── topology.png
  └── rip.pkt
