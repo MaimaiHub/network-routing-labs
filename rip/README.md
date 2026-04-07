@@ -13,10 +13,10 @@ RIPv2 is used to advertise all connected networks and enable end-to-end communic
 ---
 
 ## Devices Used
-3 × Cisco Router 1941
-3 × PC
-3 × V.35 DCE-to-DTE serial cables
-UTP cross-over cables
+- 3 × Cisco Router 1941
+- 3 × PC
+- 3 × V.35 DCE-to-DTE serial cables
+- UTP cross-over cables
 
 ---
 
