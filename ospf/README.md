@@ -14,19 +14,19 @@ OSPF is used to exchange routes between multiple routers and enable end-to-end c
 
 ## Devices Used
 
-6 × Cisco Router 1941
-3 × PC
-V.35 DCE-to-DTE serial cables
-UTP cross-over cables
+- 6 × Cisco Router 1941
+- 3 × PC
+- V.35 DCE-to-DTE serial cables
+- UTP cross-over cables
 
 ---
 
 ## OSPF Area Design
 
-Area 0: Backbone area
-Area 10: PC10 network
-Area 20: PC20 network
-Area 30: PC30 network
+- Area 0: Backbone area
+- Area 10: PC10 network
+- Area 20: PC20 network
+- Area 30: PC30 network
 
 ---
 
